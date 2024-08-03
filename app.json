@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Aora",
-    "slug": "Aora",
+    "name": "GreenGrowAI",
+    "slug": "GreenGrowAI",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "Aora",
+    "scheme": "GreenGrowAI",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
